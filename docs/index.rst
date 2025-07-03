@@ -11,7 +11,7 @@ How to Fix Peacock TV Login Issues? 🔧
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tvpeacock.support
+   :target: https://tvpeacock.support/support.html
 __________________
 
 In the age of streaming, having seamless access to your favorite shows and movies is essential. Peacock TV, NBCUniversal’s streaming service, offers a wide range of content including live sports, classic TV shows, and original programming. However, many users have found themselves facing frustrating Peacock TV login issues that interrupt their entertainment experience.
